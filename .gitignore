@@ -16,4 +16,4 @@ Thumbs.db
 .vscode/
 
 # SQLite database (optional)
-database.db
+#database.db
